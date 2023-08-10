@@ -1,16 +1,3 @@
-# SET09119 Physics-Based Animation
-## Games Development Module
-### Copyright (C) 2016  Edinburgh Napier University
-
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with this program.  If not, see <http://www.gnu.org/licenses/>.
+# Bridge Physics
+## A physics driven bridge simulation.
+The purpose of this project was to develop a scene that demonstrates my understanding of physics based animation systems. I decided I was going to simulate a rope bridge, using a mass-spring system, where a collection of particles are interconnected, applying forces to each other. The user can interact with the bridge physics via a GUI or a controllable 'player' sphere.
